@@ -3,6 +3,10 @@ This repository contains a Matlab implementation of a Bayesian network model. Th
 
 A full description of the model can be found in section B of [[1]](#1).
 
+The current version of the model is tuned to model the distributions of log cytokine levels of tuberculous meningitis patients. Instructions on how to use the software for cytokine modelling can be found in Instructions.pdf.
+
+The software is joint work by Dr Roger Sewell (rfs34), Mingtong Xu (mx243), Jacob Coxon (jc2062) and Tommy Walker Mackay (tow24).
+
 ## References
 <a id="1">[1]</a> 
 Roger Sewell. 
